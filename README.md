@@ -1,3 +1,3 @@
 # RL-
 RL for stock trade
-Get the stock dataset and use LSTM  and GUN to predict 
+Get the stock dataset and use LSTM  and GRU to predict 
